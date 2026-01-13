@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 512px;
+}
+
+#site_header {
+  padding: 16px;
+  border-bottom: 2px solid #000;
+}
+
+
+#site_main {
+  padding: 8px 8px 16px 16px;
+}
+
+.Contenitore {
+  border: 2px solid #000;
+  padding: 16px;
+  margin-bottom: 20px;
+  min-height: 140px;
+}
