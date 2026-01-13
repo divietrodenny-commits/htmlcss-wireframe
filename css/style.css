@@ -16,6 +16,7 @@ body {
 
 #site_main {
   padding: 8px 8px 16px 16px;
+  min-height: 400px;
 }
 
 .Contenitore {
